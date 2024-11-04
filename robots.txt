@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ubalaare.github.io/Khj/sitemap_index.txt
+Sitemap: https://ubalaare.github.io/Quy/sitemap_index.txt
+Sitemap: https://ubalaare.github.io/geD/sitemap_index.txt
+Sitemap: https://ubalaare.github.io/nhl/sitemap_index.txt
